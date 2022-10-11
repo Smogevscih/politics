@@ -1,4 +1,4 @@
-#Где трамвай? Екатеринбург. Privacy Policy
+# Где трамвай? Екатеринбург. Privacy Policy
 
 This Privacy Policy applies from Oct 5th, 2022. You may change your consent anytime in our App Settings. Apps.JUNIPER (or "we") collects information from you in order to provide better service and give you a better user experience. We always put your privacy as the first consideration and the Privacy Policy explains how we collect, use, and protect your information.
 
